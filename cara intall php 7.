@@ -1,0 +1,3 @@
+//pertama, download Laravel installer menggunakan Composer:
+
+composer global require laravel/installer
